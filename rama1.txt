@@ -1,1 +1,3 @@
 este es fichero de rama1
+
+ya estoy en rama1 y subido a la nube
