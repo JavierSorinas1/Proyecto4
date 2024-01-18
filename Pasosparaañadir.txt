@@ -1,0 +1,6 @@
+1-crear fichero
+	usar status para saber cambios
+2-git add fichero
+	usar checkout
+	usar commit para añadirlo al proyecto
+3-

@@ -1,0 +1,10 @@
+Ya hemos visto:
+
+add
+remove
+rm
+clone
+commit
+checkout
+push
+status
